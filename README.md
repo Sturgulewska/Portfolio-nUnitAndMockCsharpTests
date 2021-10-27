@@ -16,7 +16,7 @@ alt="csharp" width="40" height="40"/> </a>
 1. Go to directory where you want to clone this repository.<br></br>
 2. Run Git Bash there (Right click -> Git Bash Here).<br></br>
 3. Clone repository with command:
-$ git clone https://github.com/Sturgulewska/Portfolio-SeleniumCsharp
+$ git clone https://github.com/Sturgulewska/Portfolio-nUnitAndMockCsharpTests
 
 <h4>Run Backend</h4>
 1. Go to cloned directory<br></br>
