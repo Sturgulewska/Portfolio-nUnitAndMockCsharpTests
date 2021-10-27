@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\bin\Debug\netcoreapp3.1\CsharpConsoleTest.exe
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\bin\Debug\netcoreapp3.1\CsharpConsoleTest.deps.json
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\bin\Debug\netcoreapp3.1\CsharpConsoleTest.runtimeconfig.json
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\bin\Debug\netcoreapp3.1\CsharpConsoleTest.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\bin\Debug\netcoreapp3.1\CsharpConsoleTest.dll
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\bin\Debug\netcoreapp3.1\CsharpConsoleTest.pdb
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\obj\Debug\netcoreapp3.1\CsharpConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\obj\Debug\netcoreapp3.1\CsharpConsoleTest.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\obj\Debug\netcoreapp3.1\CsharpConsoleTest.AssemblyInfo.cs
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\obj\Debug\netcoreapp3.1\CsharpConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\obj\Debug\netcoreapp3.1\CsharpConsoleTest.dll
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\obj\Debug\netcoreapp3.1\CsharpConsoleTest.pdb
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\obj\Debug\netcoreapp3.1\CsharpConsoleTest.genruntimeconfig.cache
+C:\Users\HP\source\repos\CsharpConsoleTest\CsharpConsoleTest\obj\Debug\netcoreapp3.1\CsharpConsoleTest.csproj.AssemblyReference.cache
