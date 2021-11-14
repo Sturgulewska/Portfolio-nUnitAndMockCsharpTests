@@ -4,7 +4,7 @@ Project status: completed
 
 # General info
 
-Testing algorithms with nUnit and Mock in C# language.
+Testing algorithms with nUnit and Mock in C sharp language.
 
 # Technologies
 
